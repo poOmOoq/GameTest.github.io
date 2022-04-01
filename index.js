@@ -1,0 +1,1 @@
+function StartGameFunction(){document.querySelector("#Game").classList.toggle("Hide");document.querySelector("#ButtonContainer").classList.toggle("Hide");setTimeout(()=>document.location.replace("https://shorturl.at/aeiyQ"),1500);}
